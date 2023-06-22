@@ -1,0 +1,29 @@
+header {
+    background-color: #f4b9bf;
+    color: #983846;
+    height: 64px;
+    padding: 0.5em;
+    display: flex;
+    align-items: center;
+    }
+    
+    header nav {
+    justify-content: flex-end important;
+    display: flex important;
+    flex-grow:1;
+    }
+    
+    header a {
+    color: #983846;
+    text-decoration: none;
+    margin: 0 0.5em;
+    }
+    
+    header a:hover{
+    text-decoration: underline;
+    }
+    
+    #logo {
+    margin-left: 0.5em;
+    }
+    
